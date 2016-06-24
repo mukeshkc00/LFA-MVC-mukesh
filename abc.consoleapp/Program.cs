@@ -11,6 +11,8 @@ namespace abc.consoleapp
         static void Main(string[] args)
         {
             Console.WriteLine("hello");
+            Console.WriteLine("welcome");
+
            
         }
     }
