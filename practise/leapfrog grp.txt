@@ -1,0 +1,31 @@
+fb group :LFA-Dotnet -06-22-16(79)
+krishparv
+k1shor
+oops
+abstract class
+partial class
+static clas
+
+database
+CRUD
+databasedesign
+select statement
+stored procedure
+functions
+triggers
+windows function
+  rank
+  dense rank
+
+                                 LFA forum
+
+prototype
+
+1 user    
+ id
+ name
+ email
+ password
+
+
+2 post
