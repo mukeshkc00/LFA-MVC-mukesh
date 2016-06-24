@@ -17,10 +17,11 @@ namespace loginauthentication
             bool isValideUser = false;
             for (int x = 3; x >= 1; x--)
             {
+                Console.WriteLine("HELLO !");
                 Console.WriteLine("You have " + x + " attempt/s.");
-                Console.Write("Enter Username>> ");
+                Console.Write("Enter Username: ");
                 username = Console.ReadLine();
-                Console.Write("Enter Password>> ");
+                Console.Write("Enter Password: ");
                 password = Console.ReadLine();
                 for (row = 0; row < 3; row++)
                 {
